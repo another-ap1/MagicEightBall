@@ -1,0 +1,10 @@
+
+.MagicBall {
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: xx-large;
+    border-radius: 50%;
+    background-color: black;
+    border: none;
+}
